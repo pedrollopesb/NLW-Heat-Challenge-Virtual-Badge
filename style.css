@@ -184,6 +184,7 @@ ul {
   body {
     background: url(images/full-background.png) no-repeat center;
     background-size: cover;
+    background-color: #080706f3;
   }
 
   .container:before,
