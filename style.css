@@ -30,6 +30,8 @@ main {
   background-size: cover;
   width: 375px;
   height: 812px;
+  box-shadow: inset 0 0 1em #ff9100f1, 0 0 1em #f700ff;
+  border-radius: 0.25rem;
 }
 
 .container {
