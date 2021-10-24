@@ -173,6 +173,13 @@ ul {
   }
 }
 
+@media only screen and (min-width: 376px) and (max-widht: 480px) {
+  main {
+    max-width: 480px;
+    background-size: cover;
+  }
+}
+
 @media only screen and (min-width: 481px) and (max-width: 2652px) {
   body {
     background: url(images/full-background.png) no-repeat center;
