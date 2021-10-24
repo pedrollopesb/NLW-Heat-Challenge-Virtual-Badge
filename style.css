@@ -173,7 +173,7 @@ ul {
   }
 }
 
-@media only screen and (min-width: 376px) and (max-widht: 480px) {
+@media only screen and (min-width: 376px) and (max-width: 480px) {
   main {
     max-width: 480px;
     background-size: cover;
